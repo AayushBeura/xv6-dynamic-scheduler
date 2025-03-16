@@ -49,7 +49,9 @@ This approach gives processes that are scheduled more frequently slightly longer
 
 ```
 git clone https://github.com/AayushBeura/xv6-dynamic-scheduler.git
+chmod 777 -R xv6-dynamic-scheduler
 cd xv6-dynamic-scheduler
+cd xv6-public
 ```
 
 2. Install all required dependencies:
