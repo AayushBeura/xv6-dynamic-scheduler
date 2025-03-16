@@ -48,7 +48,7 @@ This approach gives processes that are scheduled more frequently slightly longer
 1. Clone the xv6 repository:
 
 ```
-git clone https://github.com/pika-droid/xv6-dynamic-scheduler.git
+git clone https://github.com/AayushBeura/xv6-dynamic-scheduler.git
 cd xv6-dynamic-scheduler
 ```
 
